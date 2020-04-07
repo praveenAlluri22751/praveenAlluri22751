@@ -38,14 +38,19 @@ public class StockTransaction extends AbstractEntity {
     private int userId;
     private StockHolding stockHolding;
 
-    public StockTransaction(StockHolding stockHolding, int shares, TransactionType type) throws StockLookupException {
+    public StockTransaction() {
+
+    }
+
+    public StockTransaction(StockHolding stockHolding, int shares, TransactionType type, float price) throws StockLookupException {
         this.shares = shares;
         this.stockHolding = stockHolding;
         this.transactionTime = new Date();
         this.symbol = stockHolding.getSymbol();
         this.type = type;
         this.userId = stockHolding.getOwnerId();
-        this.price = Stock.lookupStock(symbol).getPrice();
+        //this.price = Stock.lookupStock(symbol).getPrice();
+        this.price = price;
     }
 
     @ManyToOne

@@ -6,6 +6,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
 
 import javax.servlet.http.HttpServletRequest;
 
@@ -31,7 +32,7 @@ public class AuthenticationController extends AbstractController {
     }
 
     @RequestMapping(value = "/register", method = RequestMethod.POST)
-    public String register(String userName, String password, String confirmPassword, Model model) {
+    public String register(String userName, String password, String confirmPassword, Model model, HttpServletRequest request) {
 
         // Perform some validation
         User existingUser = userDao.findByUserName(userName);
@@ -45,7 +46,10 @@ public class AuthenticationController extends AbstractController {
 
         // Validation passed. Create and persist a new User entity
         User newUser = new User(userName, password);
-        userDao.save(newUser);
+        User savedUser = userDao.save(newUser);
+
+        // User is valid; set in session
+        request.getSession().setAttribute(userSessionKey, savedUser.getUid());
 
         return "index";
     }

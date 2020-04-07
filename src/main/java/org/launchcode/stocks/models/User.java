@@ -74,15 +74,4 @@ public class User extends AbstractEntity {
         this.portfolio = portfolio;
     }
 
-    void addHolding (StockHolding holding) throws IllegalArgumentException {
-
-        // Ensure a holding for the symbol doesn't already exist
-        if (portfolio.containsKey(holding.getSymbol())) {
-            throw new IllegalArgumentException("A holding for symbol " + holding.getSymbol()
-                    + " already exits for user " + getUid());
-        }
-
-        portfolio.put(holding.getSymbol(), holding);
-    }
-
 }
