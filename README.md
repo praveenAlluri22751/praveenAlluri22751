@@ -9,7 +9,7 @@
   <samp>A resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure which were my previous work platforms.
   </samp>
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=praveenAlluri22751" alt="https://github.com/praveenAlluri22751" />
+  <img src="https://komarev.com/ghpvc/?username=praveenAlluri22751&color=yellowgreen" alt="https://github.com/praveenAlluri22751" />
 </p>
 
 <hr>
