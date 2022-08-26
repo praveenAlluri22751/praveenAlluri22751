@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://media.giphy.com/media/32ZU9xUsTyX7O5BAP3/giphy.gif" alt="header" width="900" />
+  <img src="https://media.giphy.com/media/32ZU9xUsTyX7O5BAP3/giphy.gif" alt="header" width="800" />
 </div>
 <p align="center"> (Open for Hiring)</p>
 
