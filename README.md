@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/32ZU9xUsTyX7O5BAP3/giphy.gif" alt="header" width="800" />
 </div>
-<p align="center"> {Open for Hiring} </p>
+<p align="center"> < Open for Hiring > </p>
 
 <h2 align="center"> 👨‍💻 Who Am I ?</h2>
 <p align="center">
