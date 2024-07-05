@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="" alt="header" width="800" />
+  <img src=" " alt="header" width="0" />
 </div>
 <p align="center"> < Open for Hiring > </p>
 
