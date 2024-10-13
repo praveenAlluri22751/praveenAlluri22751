@@ -1,9 +1,9 @@
 
 <img align="left" alt="coding" style="width: 300px; margin-right: 20px;" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" />
 
-<h2 align="center"> 👨‍💻 Who Am I ?</h2>
+<h3 align="center"> 👨‍💻 WHO AM I ?</h3>
 
-<hr>
+
 <p align="center"> <a href="https://ipa-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/my%20portfolio-56347C?.svg?&style=for-the-badge&logo=my%20portfolio&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; </p>
 <p>
   <samp>A resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure which were my previous work platforms.
