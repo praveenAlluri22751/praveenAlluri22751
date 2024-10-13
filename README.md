@@ -5,7 +5,7 @@
 <p align="center"> < Open for Hiring > </p>
 
 <p align="center">
-    <img alt="coding" width="450" src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" />
+    <img alt="coding" width="300" src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" />
 </p>
 
 
