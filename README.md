@@ -1,5 +1,5 @@
 
-<img align="left" alt="coding" style="width: 300px; margin-right: 20px;" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" />
+<img align="left" alt="coding" style="width: 250px; margin-right: 20px;" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" />
 
 <p align="center"> <a href="https://ipa-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/my%20portfolio-56347C?.svg?&style=for-the-badge&logo=my%20portfolio&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; </p>
 <p>
@@ -8,6 +8,8 @@
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=praveenAlluri22751&color=yellowgreen" alt="https://github.com/praveenAlluri22751" />
 </p>
+
+
 
 <hr>
 
