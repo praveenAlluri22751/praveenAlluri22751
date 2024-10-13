@@ -1,7 +1,4 @@
 
-<div align="center">
-  <img src=" " alt="header" width="0" />
-</div>
 <p align="center"> < Open for Hiring > </p>
 
 <p align="center">
