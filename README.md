@@ -2,7 +2,7 @@
 <p align="center"> < Open for Hiring > </p>
 
 <p align="center">
-    <img alt="coding" width="300" src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" />
+    <img alt="coding" src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" style="display: block; margin-left: auto; margin-right: auto; width: 100%;" />
 </p>
 
 
