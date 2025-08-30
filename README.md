@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://ipa-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/my%20portfolio-56347C?.svg?&style=for-the-badge&logo=my%20portfolio&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; </p>
 <p>
-  <samp>A resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure which were my previous work platforms.
+  <samp>A resourceful computer engineer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure which were my previous work platforms.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=praveenAlluri22751&color=yellowgreen" alt="https://github.com/praveenAlluri22751" />
